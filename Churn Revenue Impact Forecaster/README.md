@@ -317,8 +317,9 @@ The dashboard includes:
 - Model explainability integration
 
 ## Dashboard Preview
-
+## 01 — Executive Overview
 ![Power BI Dashboard1](images/powerbi_dashboard1.png)
+## 02 — Model Insights
 ![Power BI Dashboard2](images/powerbi_dashboard2.png)
 ---
 
