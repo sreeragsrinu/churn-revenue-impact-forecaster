@@ -206,7 +206,7 @@ DPI              = 300
 ## Running the Project
 
 ```bash
-python churn_forecaster_v3.py
+churn_revenue_impact_forecaster.py
 ```
 
 ---
