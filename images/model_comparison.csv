@@ -1,0 +1,3 @@
+Model,ROC_AUC,Avg_Prec,F1,Accuracy,Threshold
+Random Forest,0.8302,0.6291,0.6148,0.7786,0.507
+XGBoost,0.8183,0.6138,0.6117,0.7594,0.331
