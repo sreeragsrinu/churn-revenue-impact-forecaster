@@ -477,7 +477,8 @@ The integration of machine learning, financial analytics, and business intellige
  Sreerag S
  [ Data Scientist & Machine Learning Enthusiast ]
  GitHub: [https://github.com/sreeragsrinu](https://github.com/sreeragsrinu)
- LinkedIn: [https://www.linkedin.com/in/sreerag-s-9b25162a7/]
+ 
+ LinkedIn: https://www.linkedin.com/in/sreerag-s-9b25162a7/
 
 ---
 
