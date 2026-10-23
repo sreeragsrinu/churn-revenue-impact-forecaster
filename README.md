@@ -475,7 +475,7 @@ The integration of machine learning, financial analytics, and business intellige
 ## Developer
 
  Sreerag
- Aspiring Data Scientist & Machine Learning Enthusiast
+ Data Scientist & Machine Learning Enthusiast
  GitHub: [https://github.com/sreeragsrinu](https://github.com/sreeragsrinu)
 
 ---
